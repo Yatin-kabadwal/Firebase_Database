@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931390617504",
+    "project_id": "database-aafaa",
+    "storage_bucket": "database-aafaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931390617504:android:fbef5e7a498ae2eb42d6c5",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA743Nod1Cvt6eT0xdaGXDRg-XkogKgV2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
