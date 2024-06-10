@@ -6,7 +6,7 @@ This GitHub repository contains the code for an Android Studio project that util
 
 Features:
 
-- Firebase Integration: Utilizes Firebase for secure data storage.
-- User-Friendly Interface: Provides an intuitive interface for users to enter and store their information.
-- Authentication: Implements authentication to ensure data security.
-- Error Handling: Includes error handling mechanisms for a smooth user experience.
+- **Firebase Integration:** Utilizes Firebase for secure data storage.
+- **User-Friendly Interface:** Provides an intuitive interface for users to enter and store their information.
+- **Authentication:** Implements authentication to ensure data security.
+- **Error Handling:** Includes error handling mechanisms for a smooth user experience.
